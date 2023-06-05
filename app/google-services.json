@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485999960027",
+    "project_id": "desnutrapp",
+    "storage_bucket": "desnutrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485999960027:android:5c7fd6bd13a1478ff4d1fe",
+        "android_client_info": {
+          "package_name": "com.desnutrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485999960027-4d9uo9p64m2kaj59g0uvifhl0i7fa49v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnB6aaCZGfWAkc3mMKXvWAevFxILC1jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485999960027-4d9uo9p64m2kaj59g0uvifhl0i7fa49v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
